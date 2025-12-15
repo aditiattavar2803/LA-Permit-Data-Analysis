@@ -39,3 +39,4 @@ LA-Permit-Data-Analysis/
 │── docs/
 │   └── project_writeup.pdf
 │── README.md
+│── .gitignore
